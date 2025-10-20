@@ -106,7 +106,7 @@ button:focus {
     align-items: center;
     color: black;
 }
- 
+
 @media screen and (max-width: 1000px) {
     body {
         font-size: 1.2rem;
